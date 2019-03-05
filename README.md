@@ -1,6 +1,6 @@
 # approximate-trajectory-partitioning
 
-This project implements the approximate trajectory partitioning algorithm on the paper *Trajectory Clustering: A Partition-and-Group Framework. Lee, Jae-Gil; Han, Jiawei; Whang, Kyu-Young*
+This project implements the approximate trajectory partitioning algorithm on the paper: *Trajectory Clustering: A Partition-and-Group Framework. Lee, Jae-Gil; Han, Jiawei; Whang, Kyu-Young*
 
 ## Usage
 
